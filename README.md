@@ -1,6 +1,6 @@
 # Техническое задание
 
-![alt text](https://github.com/Commandos-mm/S7-engine-condition-calculator/tree/main/contents/img/tech_task.png)
+![alt text](/contents/img/tech_task.jpeg)
 
 # Как запускать
 

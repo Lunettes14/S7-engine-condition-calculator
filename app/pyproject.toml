@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "s7-engine-condition-calculator"
+version = "0.1.0"
+description = ""
+authors = ["Ivan Nedosekov <ivan-nedd@mail.ru>", "Arseniy Polyubin <colars@bk.ru>", "Alexander Kireev <fami.kireevak@gmail.com>"]
+readme = "README.md"
+packages = [{include = "s7_engine_condition_calculator"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+watchfiles = "^0.19.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,5 +1,9 @@
 # Техническое задание
 
+# Ссылка на Miro
+
+[Здесь](https://miro.com/app/board/uXjVMJ0-ZGA=/) находится концепция проекта и план работ на оставшиеся дни.
+
 ![alt text](/contents/img/tech_task.jpeg)
 
 # Как запускать

@@ -1,4 +1,7 @@
-
+.PHONY: install
+install:
+	pip install poetry
+	poetry install
 
 .PHONY: run-local
 run-local:
